@@ -1,4 +1,4 @@
 # apnacollege-demo
 my demo repository
 <br>
-Author Esha Sharma
+Author Esha Sharma(apna college)
